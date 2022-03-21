@@ -1,0 +1,2 @@
+SELECT * FROM myTable
+WHERE ID IS LIKE '1%';
